@@ -1,3 +1,2 @@
 # Mission-to-Mars
-mongosh
-go back to the end of 10.5.1 if you run into issues
+For this module, we created a web app with photos of Mars. We used BeautifulSoup and Splinter to scrape images of Mars and then stored them in a Mongo database.
